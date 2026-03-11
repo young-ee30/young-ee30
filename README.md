@@ -2,7 +2,10 @@
 
 🇰🇷 [**한국어**](./README_KR.md) | 🇺🇸 **English**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Security+Researcher+%7C+Drone+Hacker;Breaking+things+to+make+them+safer." alt="Typing SVG" /></a>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=200&section=header&text=Welcome!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Drone%20Hacker&descSize=18&descColor=93C5FD&descAlignY=55" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Breaking+things+to+make+them+safer.;%F0%9F%94%90+Offensive+Security+%7C+Reverse+Engineering;%F0%9F%9A%81+Drone+Hacking+%7C+MAVLink+Exploitation" alt="Typing SVG" /></a>
 
 </div>
 
@@ -76,16 +79,6 @@ Python bot that auto-converts Notion pages to Tistory blog posts with formatting
 <br/>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake.svg" width="100%" />
-</picture>
-</div>
-
-<br/>
-
-<div align="center">
 
 <a href="https://young-ee30.github.io">
 <img src="https://img.shields.io/badge/Portfolio-young--ee30.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -98,5 +91,11 @@ Python bot that auto-converts Notion pages to Tistory blog posts with formatting
 <a href="https://github.com/young-ee30">
 <img src="https://img.shields.io/badge/GitHub-young--ee30-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=100&section=footer"/>
 
 </div>

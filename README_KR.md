@@ -2,7 +2,10 @@
 
 🇰🇷 **한국어** | 🇺🇸 [**English**](./README.md)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%EB%B3%B4%EC%95%88+%EC%97%B0%EA%B5%AC%EC%9B%90+%7C+%EB%93%9C%EB%A1%A0+%ED%95%B4%EC%BB%A4;%EC%B7%A8%EC%95%BD%EC%A0%90%EC%9D%84+%EC%B0%BE%EC%95%84+%EB%8D%94+%EC%95%88%EC%A0%84%ED%95%9C+%EC%84%B8%EC%83%81%EC%9D%84." alt="Typing SVG" /></a>
+<!-- 헤더 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=200&section=header&text=%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%EB%B3%B4%EC%95%88%20%EC%97%B0%EA%B5%AC%EC%9B%90%20%7C%20%EB%93%9C%EB%A1%A0%20%ED%95%B4%EC%BB%A4&descSize=18&descColor=93C5FD&descAlignY=55" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%EC%B7%A8%EC%95%BD%EC%A0%90%EC%9D%84+%EC%B0%BE%EC%95%84+%EB%8D%94+%EC%95%88%EC%A0%84%ED%95%9C+%EC%84%B8%EC%83%81%EC%9D%84.;%F0%9F%94%90+%EA%B3%B5%EA%B2%A9+%EB%B3%B4%EC%95%88+%7C+%EB%A6%AC%EB%B2%84%EC%8A%A4+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81;%F0%9F%9A%81+%EB%93%9C%EB%A1%A0+%ED%95%B4%ED%82%B9+%7C+MAVLink+%EC%B7%A8%EC%95%BD%EC%A0%90+%EA%B3%B5%EA%B2%A9" alt="Typing SVG" /></a>
 
 </div>
 
@@ -76,16 +79,6 @@ KISA 컴플라이언스 — 대규모 서버 취약점 점검, 조치, 보고서
 <br/>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake.svg" width="100%" />
-</picture>
-</div>
-
-<br/>
-
-<div align="center">
 
 <a href="https://young-ee30.github.io">
 <img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-young--ee30.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -98,5 +91,11 @@ KISA 컴플라이언스 — 대규모 서버 취약점 점검, 조치, 보고서
 <a href="https://github.com/young-ee30">
 <img src="https://img.shields.io/badge/GitHub-young--ee30-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=100&section=footer"/>
 
 </div>
