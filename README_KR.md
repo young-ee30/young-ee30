@@ -5,7 +5,7 @@
 <!-- 헤더 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=200&section=header&text=%EB%B0%91%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%EB%B3%B4%EC%95%88%20%EC%97%B0%EA%B5%AC%EC%9B%90%20%7C%20%EB%93%9C%EB%A1%A0%20%ED%95%B4%EC%BB%A4&descSize=18&descColor=93C5FD&descAlignY=55" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%EC%B7%A8%EC%95%BD%EC%A0%90%EC%9D%84+%EC%B0%BE%EC%95%84+%EB%8D%94+%EC%95%88%EC%A0%84%ED%95%9C+%EC%84%B8%EC%83%81%EC%9D%84.;%F0%9F%94%90+%EA%B3%B5%EA%B2%A9+%EB%B3%B4%EC%95%88+%7C+%EB%A6%AC%EB%B2%84%EC%8A%A4+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81;%F0%9F%9A%81+%EB%93%9C%EB%A1%A0+%ED%95%B4%ED%82%B9+%7C+MAVLink+%EC%B7%A8%EC%95%BD%EC%A0%90+%EA%B3%B5%EA%B2%A9" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%EC%B7%A8%EC%95%BD%EC%A0%90%EC%9D%84+%EC%B0%BE%EC%95%84+%EB%8D%94+%EC%95%88%EC%A0%84%ED%95%9C+%EC%84%B8%EC%83%81%EC%9D%84.;%F0%9F%94%90+Offensive+Security+%7C+Reverse+Engineering;%F0%9F%9A%81+Drone+Hacking+%7C+MAVLink+Exploitation" alt="Typing SVG" /></a>
 
 </div>
 
