@@ -1,9 +1,12 @@
 <div align="center">
 
-<!-- 헤더 타이핑 애니메이션 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%90+Security+Researcher+%7C+Drone+Hacker;Breaking+things+to+make+them+safer." alt="Typing SVG" /></a>
+<!-- 헤더 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=GAYOUNG%20LEE&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Drone%20Hacker&descSize=18&descColor=FFFFFF&descAlignY=55"/>
 
-<br/>
+<!-- 타이핑 애니메이션 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Breaking+things+to+make+them+safer.;%F0%9F%94%90+Offensive+Security+%7C+Reverse+Engineering;%F0%9F%9A%81+Drone+Hacking+%7C+MAVLink+Exploitation" alt="Typing SVG" /></a>
+
+<br/><br/>
 
 <!-- 프로필 뱃지 -->
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=hackaday&logoColor=white"/>
@@ -14,26 +17,13 @@
 
 ---
 
-<br/>
-
-```
-  ██████╗  █████╗ ██╗   ██╗ ██████╗ ██╗   ██╗███╗   ██╗ ██████╗     ██╗     ███████╗███████╗
- ██╔════╝ ██╔══██╗╚██╗ ██╔╝██╔═══██╗██║   ██║████╗  ██║██╔════╝     ██║     ██╔════╝██╔════╝
- ██║  ███╗███████║ ╚████╔╝ ██║   ██║██║   ██║██╔██╗ ██║██║  ███╗    ██║     █████╗  █████╗  
- ██║   ██║██╔══██║  ╚██╔╝  ██║   ██║██║   ██║██║╚██╗██║██║   ██║    ██║     ██╔══╝  ██╔══╝  
- ╚██████╔╝██║  ██║   ██║   ╚██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝    ███████╗███████╗███████╗
-  ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝     ╚══════╝╚══════╝╚══════╝
-```
-
-<br/>
-
-## `> whoami`
+## $ whoami
 
 ```python
 class SecurityResearcher:
     def __init__(self):
-        self.name = "Gayoung Lee (이가영)"
-        self.role = "Security Researcher"
+        self.name     = "Gayoung Lee (이가영)"
+        self.role     = "Security Researcher"
         self.interests = [
             "🚁 Drone Security & MAVLink Protocol Exploitation",
             "🔓 Vulnerability Research & Reverse Engineering",
@@ -49,11 +39,9 @@ me = SecurityResearcher()
 me.say_hi()
 ```
 
-<br/>
-
 ---
 
-## `> cat /etc/skills`
+## $ cat /etc/skills
 
 <div align="center">
 
@@ -83,11 +71,9 @@ me.say_hi()
 
 </div>
 
-<br/>
-
 ---
 
-## `> ls -la /projects`
+## $ ls -la /projects
 
 <table align="center">
 <tr>
@@ -118,11 +104,9 @@ ArduPilot 기반 드론의 MAVLink2 미서명 통신 취약점 발견 → 서명
 </tr>
 </table>
 
-<br/>
-
 ---
 
-## `> cat /var/log/stats`
+## $ cat /var/log/stats
 
 <div align="center">
 
@@ -137,11 +121,9 @@ ArduPilot 기반 드론의 MAVLink2 미서명 통신 취약점 발견 → 서명
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=young-ee30&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41"/>
 </div>
 
-<br/>
-
 ---
 
-## `> cat ~/.contact`
+## $ cat ~/.contact
 
 <div align="center">
 
@@ -157,10 +139,8 @@ ArduPilot 기반 드론의 MAVLink2 미서명 통신 취약점 발견 → 서명
 
 <br/>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer&animation=twinkling"/>
 
 </div>
