@@ -2,26 +2,23 @@
 
 🇰🇷 **한국어** | 🇺🇸 [**English**](./README.md)
 
-</div>
-
-<div align="center">
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%EB%B3%B4%EC%95%88+%EC%97%B0%EA%B5%AC%EC%9B%90+%7C+%EB%93%9C%EB%A1%A0+%ED%95%B4%EC%BB%A4;%EC%B7%A8%EC%95%BD%EC%A0%90%EC%9D%84+%EC%B0%BE%EC%95%84+%EB%8D%94+%EC%95%88%EC%A0%84%ED%95%9C+%EC%84%B8%EC%83%81%EC%9D%84." alt="Typing SVG" /></a>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
-<div align="center">
+### 👋 소개
 
-<img src="https://img.shields.io/badge/%EA%B3%B5%EA%B2%A9%20%EB%B3%B4%EC%95%88-2563EB?style=flat-square&logo=hackaday&logoColor=white"/>
-<img src="https://img.shields.io/badge/%EB%93%9C%EB%A1%A0%20%EB%B3%B4%EC%95%88-3B82F6?style=flat-square&logo=dji&logoColor=white"/>
-<img src="https://img.shields.io/badge/%EB%A6%AC%EB%B2%84%EC%8A%A4%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-6366F1?style=flat-square&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevSecOps-1E40AF?style=flat-square&logo=docker&logoColor=white"/>
+**드론 보안**과 **공격 보안**에 집중하는 보안 연구원입니다. 
+현재 무인 시스템의 취약점을 연구하고, 엔터프라이즈 보안 자동화 도구를 개발하고 있습니다.
 
-</div>
+- 🚁 ArduPilot 드론 대상 **MAVLink 프로토콜 취약점 공격** 연구
+- 🔓 **IDA Pro** & **Ghidra**로 펌웨어 리버스 엔지니어링
+- 🛡️ **KISA 컴플라이언스** 취약점 점검 자동화
+- 🐳 Docker & Ansible로 **DevSecOps** 파이프라인 구축
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
 ### 🛠️ 기술 스택
 
@@ -31,18 +28,62 @@
 
 **개발** &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
 ### 📂 주요 프로젝트
 
-| 프로젝트 | 설명 | 기술 |
-|---------|------|------|
-| [🚁 MAVLink Key Injection Attack](https://github.com/young-ee30/MAVLink-Key-Injection-Attack) | MAVLink2 미서명 통신 취약점을 이용한 드론 제어권 탈취 연구 | `Python` `pymavlink` `IDA Pro` |
-| 🛡️ 보안 취약점 진단 자동화 | KISA 기준 취약점 점검 → 조치 → 보고서 생성 자동화 | `Shell` `Ansible` `Python` |
-| 🛒 ShopEasy API 서버 | 사용자 인증, 상품, 주문 처리 RESTful API 백엔드 | `Node.js` `MySQL` `REST API` |
-| 🤖 Notion → Tistory 봇 | 노션 페이지 → 티스토리 블로그 자동 발행 | `Python` `Notion API` |
+<table>
+<tr>
+<td width="50%">
 
----
+#### 🚁 [MAVLink Key Injection Attack](https://github.com/young-ee30/MAVLink-Key-Injection-Attack)
+MAVLink2 미서명 통신 취약점을 이용한 드론 제어권 탈취 — 서명 키 주입으로 드론 제어권 탈취
+
+`Python` `pymavlink` `IDA Pro` `Firmware RE`
+
+</td>
+<td width="50%">
+
+#### 🛡️ 보안 취약점 진단 자동화
+KISA 컴플라이언스 — 대규모 서버 취약점 점검, 조치, 보고서 생성 자동화
+
+`Shell` `Ansible` `Python` `Linux`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🛒 ShopEasy API 서버
+사용자 인증, 상품 관리, 주문 처리 기능의 RESTful 이커머스 백엔드
+
+`Node.js` `MySQL` `JavaScript` `REST API`
+
+</td>
+<td width="50%">
+
+#### 🤖 Notion → Tistory 봇
+노션 페이지를 티스토리 블로그 포스트로 자동 변환·발행
+
+`Python` `Notion API` `Tistory API`
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake.svg" width="100%" />
+</picture>
+</div>
+
+<br/>
 
 <div align="center">
 

@@ -2,26 +2,23 @@
 
 🇰🇷 [**한국어**](./README_KR.md) | 🇺🇸 **English**
 
-</div>
-
-<div align="center">
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Security+Researcher+%7C+Drone+Hacker;Breaking+things+to+make+them+safer." alt="Typing SVG" /></a>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
-<div align="center">
+### 👋 About
 
-<img src="https://img.shields.io/badge/Offensive%20Security-2563EB?style=flat-square&logo=hackaday&logoColor=white"/>
-<img src="https://img.shields.io/badge/Drone%20Security-3B82F6?style=flat-square&logo=dji&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reverse%20Engineering-6366F1?style=flat-square&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevSecOps-1E40AF?style=flat-square&logo=docker&logoColor=white"/>
+Security researcher focused on **drone security** and **offensive security**. 
+Currently hunting vulnerabilities in unmanned systems and building automation tools for enterprise security.
 
-</div>
+- 🚁 Researching **MAVLink protocol exploitation** on ArduPilot drones
+- 🔓 Reverse engineering firmware with **IDA Pro** & **Ghidra**
+- 🛡️ Automating **KISA compliance** vulnerability scanning
+- 🐳 Building **DevSecOps** pipelines with Docker & Ansible
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
 ### 🛠️ Tech Stack
 
@@ -31,18 +28,62 @@
 
 **Dev** &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
 ### 📂 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🚁 MAVLink Key Injection Attack](https://github.com/young-ee30/MAVLink-Key-Injection-Attack) | Drone control hijacking via MAVLink2 unsigned communication vulnerability | `Python` `pymavlink` `IDA Pro` |
-| 🛡️ Security Vulnerability Automation | KISA compliance — automated scanning, remediation & reporting | `Shell` `Ansible` `Python` |
-| 🛒 ShopEasy API Server | RESTful e-commerce backend with auth & order processing | `Node.js` `MySQL` `REST API` |
-| 🤖 Notion → Tistory Bot | Auto-publish Notion pages to Tistory blog | `Python` `Notion API` |
+<table>
+<tr>
+<td width="50%">
 
----
+#### 🚁 [MAVLink Key Injection Attack](https://github.com/young-ee30/MAVLink-Key-Injection-Attack)
+Drone control hijacking via MAVLink2 unsigned communication vulnerability — signing key injection to take over drone
+
+`Python` `pymavlink` `IDA Pro` `Firmware RE`
+
+</td>
+<td width="50%">
+
+#### 🛡️ Security Vulnerability Automation
+KISA compliance — automated vulnerability scanning, remediation & report generation for enterprise servers
+
+`Shell` `Ansible` `Python` `Linux`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🛒 ShopEasy API Server
+RESTful e-commerce backend with user authentication, product management & order processing
+
+`Node.js` `MySQL` `JavaScript` `REST API`
+
+</td>
+<td width="50%">
+
+#### 🤖 Notion → Tistory Bot
+Python bot that auto-converts Notion pages to Tistory blog posts with formatting preserved
+
+`Python` `Notion API` `Tistory API`
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/young-ee30/young-ee30/output/github-snake.svg" width="100%" />
+</picture>
+</div>
+
+<br/>
 
 <div align="center">
 
