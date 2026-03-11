@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- 헤더 배너 -->
+🇰🇷 [**한국어**](./README_KR.md) | 🇺🇸 **English**
+
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=GAYOUNG%20LEE&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Drone%20Hacker&descSize=18&descColor=FFFFFF&descAlignY=55"/>
 
-<!-- 타이핑 애니메이션 -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Breaking+things+to+make+them+safer.;%F0%9F%94%90+Offensive+Security+%7C+Reverse+Engineering;%F0%9F%9A%81+Drone+Hacking+%7C+MAVLink+Exploitation" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<!-- 프로필 뱃지 -->
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=hackaday&logoColor=white"/>
 <img src="https://img.shields.io/badge/Specialty-Drone%20Security-00C853?style=for-the-badge&logo=dji&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tool-Reverse%20Engineering-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white"/>
@@ -22,7 +23,7 @@
 ```python
 class SecurityResearcher:
     def __init__(self):
-        self.name     = "Gayoung Lee (이가영)"
+        self.name     = "Gayoung Lee"
         self.role     = "Security Researcher"
         self.interests = [
             "🚁 Drone Security & MAVLink Protocol Exploitation",
@@ -33,7 +34,7 @@ class SecurityResearcher:
         self.current_work = "Hunting bugs in unmanned systems"
 
     def say_hi(self):
-        print("취약점을 찾아 더 안전한 세상을 만듭니다.")
+        print("Finding vulnerabilities to build a safer world.")
 
 me = SecurityResearcher()
 me.say_hi()
@@ -80,9 +81,9 @@ me.say_hi()
 <td width="50%">
 
 ### 🚁 MAVLink Key Injection Attack
-**드론 원격 제어권 탈취 연구**
+**Drone Remote Control Hijacking Research**
 
-ArduPilot 기반 드론의 MAVLink2 미서명 통신 취약점 발견 → 서명 키 주입으로 드론 제어권 탈취 공격 연구·구현
+Discovered unsigned communication vulnerability in ArduPilot-based drones → Implemented key injection attack to hijack drone control
 
 `Python` `pymavlink` `IDA Pro` `Firmware RE`
 
@@ -91,10 +92,10 @@ ArduPilot 기반 드론의 MAVLink2 미서명 통신 취약점 발견 → 서명
 </td>
 <td width="50%">
 
-### 🛡️ 보안 취약점 진단 자동화
-**KISA 기반 엔터프라이즈 보안 플랫폼**
+### 🛡️ Security Vulnerability Automation
+**KISA-based Enterprise Security Platform**
 
-대규모 서버 환경에서 KISA 보안 취약점 점검 → 조치 → 보고서 생성까지 전 과정을 자동화
+Automated full pipeline: KISA vulnerability scanning → remediation → report generation for large-scale server environments
 
 `Shell` `Ansible` `Python` `Linux`
 
