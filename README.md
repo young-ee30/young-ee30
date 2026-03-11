@@ -3,16 +3,16 @@
 🇰🇷 [**한국어**](./README_KR.md) | 🇺🇸 **English**
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=GAYOUNG%20LEE&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Drone%20Hacker&descSize=18&descColor=FFFFFF&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=230&section=header&text=GAYOUNG%20LEE&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=33&desc=Security%20Researcher%20%7C%20Drone%20Hacker&descSize=20&descColor=93C5FD&descAlignY=55"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Breaking+things+to+make+them+safer.;%F0%9F%94%90+Offensive+Security+%7C+Reverse+Engineering;%F0%9F%9A%81+Drone+Hacking+%7C+MAVLink+Exploitation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Breaking+things+to+make+them+safer.;%F0%9F%94%90+Offensive+Security+%7C+Reverse+Engineering;%F0%9F%9A%81+Drone+Hacking+%7C+MAVLink+Exploitation" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=hackaday&logoColor=white"/>
-<img src="https://img.shields.io/badge/Specialty-Drone%20Security-00C853?style=for-the-badge&logo=dji&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tool-Reverse%20Engineering-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Offensive%20Security-2563EB?style=for-the-badge&logo=hackaday&logoColor=white"/>
+<img src="https://img.shields.io/badge/Specialty-Drone%20Security-3B82F6?style=for-the-badge&logo=dji&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tool-Reverse%20Engineering-6366F1?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 
 </div>
 
@@ -81,46 +81,55 @@ me.say_hi()
 <td width="50%">
 
 ### 🚁 MAVLink Key Injection Attack
-**Drone Remote Control Hijacking Research**
+**Drone Remote Control Hijacking**
 
-Discovered unsigned communication vulnerability in ArduPilot-based drones → Implemented key injection attack to hijack drone control
+Discovered unsigned MAVLink2 communication vulnerability in ArduPilot drones → Implemented signing key injection to hijack drone control
 
 `Python` `pymavlink` `IDA Pro` `Firmware RE`
 
-[![Repo](https://img.shields.io/badge/-View_Repository-181717?style=flat-square&logo=github)](https://github.com/young-ee30/MAVLink-Key-Injection-Attack)
+[![Repo](https://img.shields.io/badge/-View_Repository-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/young-ee30/MAVLink-Key-Injection-Attack)
 
 </td>
 <td width="50%">
 
 ### 🛡️ Security Vulnerability Automation
-**KISA-based Enterprise Security Platform**
+**KISA Enterprise Security Platform**
 
-Automated full pipeline: KISA vulnerability scanning → remediation → report generation for large-scale server environments
+Automated KISA vulnerability scanning → remediation → report generation for large-scale server environments
 
 `Shell` `Ansible` `Python` `Linux`
 
-[![Repo](https://img.shields.io/badge/-Private_Repository-181717?style=flat-square&logo=github)](https://github.com/young-ee30)
+[![Repo](https://img.shields.io/badge/-Private_Repository-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/young-ee30)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 ShopEasy API Server
+**E-Commerce Backend Platform**
+
+RESTful API server for e-commerce platform with user auth, product management, and order processing
+
+`JavaScript` `Node.js` `MySQL` `REST API`
+
+[![Repo](https://img.shields.io/badge/-Private_Repository-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/young-ee30)
+
+</td>
+<td width="50%">
+
+### 🤖 Notion to Tistory Bot
+**Blog Auto-Publishing Automation**
+
+Python bot that auto-converts Notion pages to Tistory blog posts with formatting preserved
+
+`Python` `Notion API` `Tistory API` `Automation`
+
+[![Repo](https://img.shields.io/badge/-Private_Repository-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/young-ee30)
 
 </td>
 </tr>
 </table>
-
----
-
-## $ cat /var/log/stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=young-ee30&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-ee30&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=young-ee30&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41"/>
-</div>
 
 ---
 
@@ -129,7 +138,7 @@ Automated full pipeline: KISA vulnerability scanning → remediation → report 
 <div align="center">
 
 <a href="mailto:eyoungblll30@gmail.com">
-<img src="https://img.shields.io/badge/Email-eyoungblll30@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-eyoungblll30@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/young-ee30">
@@ -142,6 +151,6 @@ Automated full pipeline: KISA vulnerability scanning → remediation → report 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=120&section=footer&animation=twinkling"/>
 
 </div>
