@@ -7,10 +7,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%EC%B7%A8%EC%95%BD%EC%A0%90%EC%9D%84+%EC%B0%BE%EC%95%84+%EB%8D%94+%EC%95%88%EC%A0%84%ED%95%9C+%EC%84%B8%EC%83%81%EC%9D%84.;%F0%9F%94%90+%EA%B3%B5%EA%B2%A9+%EB%B3%B4%EC%95%88+%7C+%EB%A6%AC%EB%B2%84%EC%8A%A4+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81;%F0%9F%9A%81+%EB%93%9C%EB%A1%A0+%ED%95%B4%ED%82%B9+%7C+MAVLink+%EC%B7%A8%EC%95%BD%EC%A0%90+%EA%B3%B5%EA%B2%A9" alt="Typing SVG" /></a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=young-ee30&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1" alt="young-ee30" />
-</a>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
@@ -21,7 +17,7 @@
 현재 무인 시스템의 취약점을 연구하고, 엔터프라이즈 보안 자동화 도구를 개발하고 있습니다.
 
 - 🚁 ArduPilot 드론 대상 **MAVLink 프로토콜 취약점 공격** 연구
-- 🔓 **IDA Pro** & **Ghidra**로 펌웨어 리버스 엔지니어링
+- 🔓 **IDA 전용** & **Ghidra**로 펌웨어 리버스 엔지니어링
 - 🛡️ **KISA 컴플라이언스** 취약점 점검 자동화
 - 🐳 Docker & Ansible로 **DevSecOps** 파이프라인 구축
 
