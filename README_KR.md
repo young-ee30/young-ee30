@@ -85,19 +85,6 @@ ArduPilot 기반 드론의 MAVLink2 통신 구조를 분석하고,
 
 ---
 
-## ✍️ Blog / Research
-
-- [Tistory Blog](https://yo-0ung.tistory.com/)
-- 보안 자동화, DevSecOps, 취약점 분석, 프로젝트 회고를 중심으로 기록하고 있습니다.
-
-<!-- 대표 글이 생기면 아래처럼 추가하면 좋습니다.
-- [KISA 취약점 진단 자동화 프로젝트 설계 기록](링크)
-- [AWS 환경에서 IaC 보안 검사 적용기](링크)
-- [MAVLink2 통신 구조와 인증 위험 분석](링크)
--->
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
