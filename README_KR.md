@@ -24,31 +24,6 @@
 ## 📚 참여 프로그램
 - 현대 오토에버 모빌리티 sw 스쿨 IT 보안 3기 (2026.04.04 ~ing)
 
-🇰🇷 **한국어** | 🇺🇸 [**English**](./README.md)
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=200&section=header" width="100%"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Securing+Systems%2C+Building+Solutions.;Security+Automation+%7C+DevSecOps;Vulnerability+Research+%7C+Offensive+Security;Detection+to+Remediation%2C+Automated." alt="Typing SVG" /></a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-
-## 👋 소개
-
-취약점 탐지부터 조치까지 **보안 자동화 솔루션**을 구축하는 보안 엔지니어를 꿈꾸는 이가영입니다.
-
-**공격적 보안 연구**와 **실용적 방어 엔지니어링** 사이의 간극을 메우는 데 관심을 가지고 있으며, 엔터프라이즈 보안 자동화, DevSecOps 파이프라인, 드론 시스템 취약점 분석 등의 프로젝트 경험을 갖추고 있습니다.
-
-- ☁️ AWS, Terraform, GitHub Actions & Checkov 기반 **DevSecOps 파이프라인** 설계
-- 📊 대규모 환경에서 **취약점 점검, 조치, 보고서 생성 자동화** 기능을 탑재한 **엔터프라이즈 보안 자동화** 플랫폼 구축
-- 🚁 **하드웨어 보안** 연구 — MAVLink 프로토콜 취약점 분석 & 펌웨어 리버싱을 통한 **드론 원격 조종 해킹**
-
-## 참여 프로그램
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-
 ## 🛠️ 기술 스택
 
 <div align="center">
