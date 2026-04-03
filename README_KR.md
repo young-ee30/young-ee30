@@ -2,83 +2,99 @@
 
 🇰🇷 **한국어** | 🇺🇸 [**English**](./README.md)
 
-<!-- 헤더 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=200&section=header&text=welcome!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%EB%B3%B4%EC%95%88%20%EC%97%B0%EA%B5%AC%EC%9B%90%20%7C%20%EB%93%9C%EB%A1%A0%20%ED%95%B4%EC%BB%A4&descSize=18&descColor=93C5FD&descAlignY=55" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=200&section=header&text=이가영&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=보안%20엔지니어%20%26%20개발자&descSize=18&descColor=93C5FD&descAlignY=55" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%EC%B7%A8%EC%95%BD%EC%A0%90%EC%9D%84+%EC%B0%BE%EC%95%84+%EB%8D%94+%EC%95%88%EC%A0%84%ED%95%9C+%EC%84%B8%EC%83%81%EC%9D%84.;%F0%9F%94%90+Offensive+Security+%7C+Reverse+Engineering;%F0%9F%9A%81+Drone+Hacking+%7C+MAVLink+Exploitation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=시스템을+보호하고%2C+솔루션을+만듭니다.;🛡️+보안+자동화+%7C+DevSecOps+파이프라인;🔍+취약점+연구+%7C+공격적+보안;🚀+탐지부터+조치까지%2C+자동화로." alt="Typing SVG" /></a>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
-### 👋 소개
+## 👋 소개
 
-**보안 취약점**을 **발견**하고 이를 **조치**하는 차세대 보안 전문가입니다. (희망)
-엔터프라이즈 보안 자동화 도구를 개발하여 보안 컨설팅을 진행하고 있으며, aws 보안에 대해 연구하고 있습니다. 
+**보안 자동화 솔루션**을 구축하는 보안 엔지니어 & 개발자입니다 — 취약점 탐지부터 조치까지.
 
-- 🚁 ArduPilot 드론 대상 **MAVLink 프로토콜 취약점 공격** 연구
-- 🔓 **IDA 전용** & **Ghidra**로 펌웨어 리버스 엔지니어링
-- 🛡️ **KISA 컴플라이언스** 취약점 점검 자동화
-- 🐳 Docker & Ansible로 **DevSecOps** 파이프라인 구축
+**공격적 보안 연구**와 **실용적 방어 엔지니어링** 사이의 간극을 메우는 데 관심을 가지고 있으며, 엔터프라이즈 보안 자동화, DevSecOps 파이프라인, 드론 시스템 취약점 분석 등의 실무 경험을 갖추고 있습니다.
+
+- 🛡️ **엔터프라이즈 보안 자동화** 플랫폼 구축 (KISA 기준, Ansible 기반)
+- ☁️ AWS, Terraform, GitHub Actions & Checkov 기반 **DevSecOps 파이프라인** 설계
+- 🚁 **드론 보안** 연구 — MAVLink 프로토콜 취약점 분석 & 펌웨어 리버싱
+- 🔓 **IDA Pro** & **Ghidra** 활용 리버스 엔지니어링
+- 📊 대규모 환경에서 **취약점 점검, 조치, 보고서 생성 자동화**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
-### 🛠️ 기술 스택
+## 🛠️ 기술 스택
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,ansible,jenkins,js,nodejs,git,mysql" />
-</div>
+
+### 언어 & 스크립팅
+<img src="https://skillicons.dev/icons?i=python,bash,js,nodejs" />
+
+### 인프라 & DevOps
+<img src="https://skillicons.dev/icons?i=linux,docker,ansible,jenkins,terraform,aws,git,github,githubactions" />
+
+### 보안 도구
 <br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=flat-square&logo=hexrays&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-FF6600?style=flat-square&logo=nsa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MAVLink-00BCD4?style=flat-square&logo=drone&logoColor=white"/>
+<img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=flat-square&logo=hexrays&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ghidra-FF6600?style=flat-square&logo=nsa&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Checkov-5849BE?style=flat-square&logo=bridgecrew&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gitleaks-181717?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/MAVLink-00BCD4?style=flat-square&logo=drone&logoColor=white"/>
+
+### 데이터베이스 & 모니터링
+<img src="https://skillicons.dev/icons?i=mysql" />
+<br/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_WAF-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
-### 📂 주요 프로젝트
+## 📂 주요 프로젝트
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-#### 🚁 [MAVLink Key Injection Attack](https://github.com/young-ee30/MAVLink-Key-Injection-Attack)
-MAVLink2 미서명 통신 취약점을 이용한 드론 제어권 탈취 — 서명 키 주입으로 드론 제어권 탈취
-
-`Python` `pymavlink` `IDA Pro` `Firmware RE`
-
-</td>
-<td width="50%">
-
-#### 🛡️ 보안 취약점 진단 자동화
-KISA 컴플라이언스 — 대규모 서버 취약점 점검, 조치, 보고서 생성 자동화
+### 🛡️ [KISA 보안 취약점 자동화](https://github.com/young-ee30/security-vulnerability-diagnosis-automation)
+엔터프라이즈급 보안 자동화 플랫폼 — 대규모 서버 환경에서 **KISA 기준** 취약점 점검, 자동 조치, 보고서 생성까지 전 과정 자동화
 
 `Shell` `Ansible` `Python` `Linux`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
-#### 🛒 ShopEasy API 서버
-사용자 인증, 상품 관리, 주문 처리 기능의 RESTful 이커머스 백엔드
+### ☁️ [AWS Security Project](https://github.com/young-ee30/aws-security-project)
+**DevSecOps 통합 관제** — GitHub Actions CI/CD, AWS 보안 모니터링, Checkov IaC 정책 자동화, Terraform 인프라 구축
 
-`Node.js` `MySQL` `JavaScript` `REST API`
+`AWS` `Terraform` `GitHub Actions` `Checkov`
 
 </td>
-<td width="50%">
+<td width="33%">
 
-#### 🤖 Notion → Tistory 봇
-노션 페이지를 티스토리 블로그 포스트로 자동 변환·발행
+### 🚁 [MAVLink Key Injection Attack](https://github.com/young-ee30/MAVLink-Key-Injection-Attack)
+드론 원격 제어권 탈취 연구 — ArduPilot 기반 드론의 **MAVLink2 미서명 통신** 취약점 분석 & Signing Key Injection 공격
 
-`Python` `Notion API` `Tistory API`
+`Python` `pymavlink` `IDA Pro` `Firmware RE`
 
 </td>
 </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+
+## 📊 GitHub 활동
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=young-ee30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&locale=kr" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-ee30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&locale=kr" height="165"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
@@ -87,11 +103,15 @@ KISA 컴플라이언스 — 대규모 서버 취약점 점검, 조치, 보고서
 <div align="center">
 
 <a href="https://young-ee30.github.io">
-<img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-young--ee30.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/포트폴리오-young--ee30.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://yo-0ung.tistory.com/">
+<img src="https://img.shields.io/badge/블로그-Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:eyoungblll30@gmail.com">
-<img src="https://img.shields.io/badge/%EC%9D%B4%EB%A9%94%EC%9D%BC-eyoungblll30-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/이메일-eyoungblll30-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/young-ee30">
