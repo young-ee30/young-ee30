@@ -5,7 +5,7 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=200&section=header&text=이가영&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=보안%20엔지니어%20%7C%20개발자&descSize=18&descColor=93C5FD&descAlignY=55" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=시스템을+보호하고%2C+솔루션을+만듭니다.;🛡️+보안+자동화+%7C+DevSecOps+파이프라인;🔍+취약점+연구+%7C+공격적+보안;🚀+탐지부터+조치까지%2C+자동화로." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Securing+Systems%2C+Building+Solutions.;Security+Automation+%7C+DevSecOps;Vulnerability+Research+%7C+Offensive+Security;Detection+to+Remediation%2C+Automated." alt="Typing SVG" /></a>
 
 </div>
 
