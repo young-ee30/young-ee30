@@ -125,15 +125,6 @@ ArduPilot 기반 드론의 MAVLink2 통신 구조를 분석하고,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=young-ee30&theme=tokyonight" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=young-ee30&theme=tokyonight" width="49%">
-</div>
-
----
-
 ## 🔗 Links
 
 <div align="center">
