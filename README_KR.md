@@ -1,8 +1,9 @@
+<div align="right">
+  🇰🇷 <b>한국어</b> &nbsp;|&nbsp; 🇺🇸 <a href="./README.md">English</a>
+</div>
+
 <div align="center">
-
-🇰🇷 **한국어** | 🇺🇸 [**English**](./README.md)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=80&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=120&section=header" width="100%"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Securing+Systems%2C+Building+Solutions.;Security+Automation+%7C+DevSecOps;Vulnerability+Research+%7C+Offensive+Security" alt="Typing SVG" /></a>
 
 </div>
@@ -70,6 +71,15 @@
 > **Signing Key Injection**을 통해 드론 원격 제어권을 탈취하는 보안 연구
 
 `Python` `pymavlink` `IDA Pro` `Firmware RE`
+
+---
+
+## 📊 GitHub 활동
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=young-ee30&theme=tokyonight" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=young-ee30&theme=tokyonight" width="49%">
+</div>
 
 ---
 
