@@ -73,16 +73,6 @@
 
 ---
 
-## 📊 GitHub 활동
-
-<div align="center">
-<a href="https://github.com/young-ee30">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=young-ee30&theme=tokyonight" width="100%"/>
-</a>
-</div>
-
----
-
 <div align="center">
 
 <a href="https://young-ee30.github.io">
