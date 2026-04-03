@@ -9,8 +9,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-
 ## 👋 소개
 
 취약점 탐지부터 조치까지 **보안 자동화 솔루션**을 구축하는 **보안 엔지니어**를 꿈꾸는 **이가영**입니다.
