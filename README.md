@@ -15,11 +15,11 @@ Hi! I'm **Gayoung Lee**, a Security Engineer who builds and applies practical se
 
 **"I simplify and secure complex systems through intelligent automation."**
 
-I value the balance between an attacker's perspective (Offensive) and a defender's approach (Defensive). Rather than just pointing out vulnerabilities, my focus is on **implementing automated pipelines that provide practical remediation**. 😊
+I value the balance between an offensive security perspective and a defensive engineering approach. Rather than merely pointing out vulnerabilities, my focus is on **implementing automated platforms and pipelines that provide practical remediation**. 😊
 
 - ☁️ Designing **AWS-based DevSecOps pipelines** for secure Infrastructure as Code (IaC) management.
 - 📊 Building **automated enterprise security platforms** that handle vulnerability scanning, remediation, and reporting at scale.
-- 🚁 Researching **hardware security**, including MAVLink protocol vulnerability analysis and drone control hijacking via firmware reversing.
+- 🚁 Researching **hardware security**, including MAVLink protocol vulnerability analysis and firmware reversing.
 
 ## 📚 Programs & Activities
 
