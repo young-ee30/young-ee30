@@ -29,7 +29,7 @@
 <div align="center">
 
 ### 언어 & 스크립팅
-<img src="https://skillicons.dev/icons?i=c/c++,python,bash,nodejs" />
+<img src="https://skillicons.dev/icons?i=c,c++,python,bash,nodejs" />
 
 ### 인프라 & DevOps
 <img src="https://skillicons.dev/icons?i=linux,docker,ansible,terraform,aws,git,github,githubactions" />
