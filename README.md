@@ -3,7 +3,7 @@
 🇰🇷 [**한국어**](./README_KR.md) | 🇺🇸 **English**
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=200&section=header&text=Gayoung%20Lee&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%26%20Developer&descSize=18&descColor=93C5FD&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=200&section=header&text=Gayoung%20Lee&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer%20%7C%20Developer&descSize=18&descColor=93C5FD&descAlignY=55" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Securing+Systems%2C+Building+Solutions.;🛡️+Security+Automation+%7C+DevSecOps+Pipeline;🔍+Vulnerability+Research+%7C+Offensive+Security;🚀+From+Detection+to+Remediation%2C+Automated." alt="Typing SVG" /></a>
 
