@@ -14,7 +14,7 @@
 ## 👋 About
 
 Hi, I'm **Gayoung Lee**.  
-I'm an aspiring Security Engineer with a focus on security automation, DevSecOps, and vulnerability analysis — passionate about **building secure systems hands-on**.
+I'm an aspiring **Security Engineer** with a focus on security automation, DevSecOps, and vulnerability analysis — passionate about **building secure systems hands-on**.
 
 I study both offensive and defensive perspectives — analyzing vulnerabilities on one side, and designing secure infrastructure and services on the other.  
 My goal is to go beyond just finding issues, and **connect them to automated response and operational workflows**.
