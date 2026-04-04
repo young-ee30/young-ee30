@@ -25,9 +25,10 @@ My goal is to go beyond just finding issues, and **connect them to automated res
 
 - Security Automation
 - DevSecOps
-- Vulnerability Analysis
-- Secure Infrastructure
 - Offensive / Defensive Security
+- Secure Infrastructure
+- Hardware Security
+- Cryptography
 
 ---
 
