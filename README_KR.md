@@ -45,14 +45,6 @@
 KISA 주요정보통신기반시설 점검 항목을 기준으로  
 **Linux 서버 취약점 진단 → 자동 조치 → 결과 리포트 생성** 흐름을 자동화한 프로젝트입니다.
 
-**Tech**  
-`Shell` `Ansible` `Python` `Linux`
-
-**What I worked on**
-- 점검 항목 기반 취약점 진단 자동화
-- 조치 가능한 항목에 대한 자동 remediation 설계
-- 결과 요약 및 리포트 생성 흐름 구현
-
 ---
 
 ### ☁️ [AWS Security Project](https://github.com/young-ee30/aws-security-project)
@@ -60,28 +52,12 @@ KISA 주요정보통신기반시설 점검 항목을 기준으로
 GitHub Actions, Terraform, AWS 환경을 연계해  
 **IaC 보안 검사와 배포 파이프라인 보안 점검**을 자동화한 DevSecOps 프로젝트입니다.
 
-**Tech**  
-`AWS` `Terraform` `GitHub Actions` `Checkov`
-
-**What I worked on**
-- GitHub Actions 기반 CI/CD 보안 점검 파이프라인 구성
-- Terraform 코드에 대한 정책 검사 자동화
-- AWS 환경에서 보안 설정 점검 및 운영 흐름 정리
-
 ---
 
 ### 🚁 [MAVLink Key Injection Analysis](https://github.com/young-ee30/MAVLink-Key-Injection-Attack)
 
 ArduPilot 기반 드론의 MAVLink2 통신 구조를 분석하고,  
 **Signing Key Injection 시나리오를 통해 인증되지 않은 제어 위험성**을 검증한 보안 연구 프로젝트입니다.
-
-**Tech**  
-`Python` `pymavlink` `IDA Pro` `Firmware RE`
-
-**What I worked on**
-- MAVLink2 통신 구조 및 인증 흐름 분석
-- Signing 관련 취약 지점 식별 및 재현 환경 구성
-- 공격 가능성보다 구조적 원인과 방어 관점 중심으로 정리
 
 ---
 
