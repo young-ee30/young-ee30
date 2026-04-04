@@ -45,14 +45,6 @@ My goal is to go beyond just finding issues, and **connect them to automated res
 An automation project based on KISA critical infrastructure audit criteria —  
 automating the full flow of **Linux server vulnerability scanning → auto-remediation → report generation**.
 
-**Tech**  
-`Shell` `Ansible` `Python` `Linux`
-
-**What I worked on**
-- Automated vulnerability scanning based on audit checklist items
-- Designed auto-remediation for actionable findings
-- Implemented result summarization and report generation pipeline
-
 ---
 
 ### ☁️ [AWS Security Project](https://github.com/young-ee30/aws-security-project)
@@ -60,28 +52,12 @@ automating the full flow of **Linux server vulnerability scanning → auto-remed
 A DevSecOps project integrating GitHub Actions, Terraform, and AWS to  
 **automate IaC security scanning and deployment pipeline security checks**.
 
-**Tech**  
-`AWS` `Terraform` `GitHub Actions` `Checkov`
-
-**What I worked on**
-- Built CI/CD security inspection pipeline using GitHub Actions
-- Automated policy checks on Terraform code
-- Organized security configuration auditing and operational workflows on AWS
-
 ---
 
 ### 🚁 [MAVLink Key Injection Analysis](https://github.com/young-ee30/MAVLink-Key-Injection-Attack)
 
 A security research project analyzing the MAVLink2 communication structure of ArduPilot-based drones,  
 **verifying the risk of unauthorized control through Signing Key Injection scenarios**.
-
-**Tech**  
-`Python` `pymavlink` `IDA Pro` `Firmware RE`
-
-**What I worked on**
-- Analyzed MAVLink2 communication structure and authentication flow
-- Identified vulnerable points in signing mechanism and set up reproduction environment
-- Focused on structural root causes and defensive perspectives rather than attack feasibility
 
 ---
 
