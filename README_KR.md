@@ -90,7 +90,7 @@ ArduPilot 기반 드론의 MAVLink2 통신 구조를 분석하고,
 <div align="center">
 
 **Languages & Scripting**  
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,nodejs" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,c,cpp,nodejs" />
 
 **Infrastructure & DevOps**  
 <img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,git,github,githubactions" />
