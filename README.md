@@ -33,8 +33,7 @@ My goal is to go beyond just finding issues, and **connect them to automated res
 
 ## 📚 Experience
 
-- **Hyundai AutoEver Mobility SW School — IT Security 3rd Cohort**  
-  `2025.12 ~ ing`
+-  `2025.12 ~ ing`  **Hyundai AutoEver Mobility SW School — IT Security 3rd Cohort**  
 
 ---
 
