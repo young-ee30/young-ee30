@@ -33,7 +33,7 @@ I value the balance between an offensive security perspective and a defensive en
 <div align="center">
 
 **Languages & Scripting**  
-<img src="https://skillicons.dev/icons?i=c/c++,python,bash,nodejs" />
+<img src="https://skillicons.dev/icons?i=c,c++,python,bash,nodejs" />
 
 **Infrastructure & DevOps**  
 <img src="https://skillicons.dev/icons?i=linux,docker,ansible,terraform,aws,git,github,githubactions" />
