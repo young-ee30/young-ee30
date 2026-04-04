@@ -33,9 +33,8 @@
 
 ## 📚 Experience
 
-- **현대 오토에버 모빌리티 SW 스쿨 IT 보안 3기**  
-  `2025.12 ~ ing`
-
+- `2025.12 ~ ing` **현대 오토에버 모빌리티 SW 스쿨 IT 보안 3기**  
+  
 ---
 
 ## 📂 Featured Projects
