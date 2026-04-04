@@ -25,9 +25,10 @@
 
 - Security Automation
 - DevSecOps
-- Vulnerability Analysis
-- Secure Infrastructure
 - Offensive / Defensive Security
+- Secure Infrastructure
+- Hardware Security
+- Cryptography
 
 ---
 
