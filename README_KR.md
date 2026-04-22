@@ -77,7 +77,7 @@ ArduPilot 기반 드론의 MAVLink2 통신 구조를 분석하고,
 <img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=flat-square&logo=hexrays&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Checkov-5849BE?style=flat-square&logo=bridgecrew&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Gitleaks-181717?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
 **Database / Monitoring**  
 <img src="https://skillicons.dev/icons?i=mysql" />
