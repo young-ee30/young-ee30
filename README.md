@@ -1,88 +1,66 @@
 <div align="right">
-  🇰🇷 <a href="./README_KR.md">한국어</a> &nbsp;|&nbsp; 🇺🇸 <b>English</b>
+  🇰🇷 <a href="./README_KO.md">한국어</a> &nbsp;|&nbsp; 🇺🇸 <b>English</b>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:0D1117&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:0D1117&height=120&section=header" width="100%"/>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Secure+Systems%2C+Practical+Automation.;Security+Automation+%7C+DevSecOps;Vulnerability+Analysis+%7C+Secure+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Cloud+Infrastructure+%26+Security;AWS+Security+%7C+DevSecOps+%7C+Automation;Building+Secure+and+Observable+Infrastructure" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-Hi, I'm **Gayoung Lee**.  
-I'm an aspiring **Security Engineer** with a focus on security automation, DevSecOps, and vulnerability analysis — passionate about **building secure systems hands-on**.
+Hello.
+I'm **Lee Ga-young**, aspiring to become a **security engineer who designs secure, reliable, and operationally sustainable cloud infrastructure**.
 
-I study both offensive and defensive perspectives — analyzing vulnerabilities on one side, and designing secure infrastructure and services on the other.  
-My goal is to go beyond just finding issues, and **connect them to automated response and operational workflows**.
+I am interested in building infrastructure based on AWS and Linux, while connecting
+**IAM access control, network security, IaC security validation, CI/CD security automation, and log monitoring** into a unified operational workflow.
 
----
+Rather than stopping at identifying vulnerabilities,
+I aim to build systems that apply security standards through code and automated pipelines, enabling **continuous assessment and improvement**.
 
-## 🎯 Interests
-
-- Security Automation
-- DevSecOps
-- Offensive / Defensive Security
-- Secure Infrastructure
-- Hardware Security
-- Cryptography
+Currently, I am developing both cloud infrastructure and security operations skills, with a focus on
+AWS, Terraform, Docker, GitHub Actions, and Linux.
 
 ---
 
-## 📚 Experience
+## 🎯 Areas of Interest
 
-- `2025.12 ~ ing`   **Hyundai AutoEver Mobility SW School — IT Security 3rd Cohort**
-
----
-
-## 📂 Featured Projects
-
-### 🛡️ [KISA Vulnerability Automation](https://github.com/young-ee30/security-vulnerability-diagnosis-automation)
-
-An automation project based on KISA critical infrastructure audit criteria —  
-automating the full flow of **Linux server vulnerability scanning → auto-remediation → report generation**.
+* Cloud Infrastructure Security
+* AWS Security & IAM
+* DevSecOps & IaC Security
+* Security Automation
+* Network & System Security
+* Logging, Monitoring & Incident Response
 
 ---
 
-### ☁️ [AWS Security Project](https://github.com/young-ee30/aws-security-project)
+## 🔍 Current Focus
 
-A DevSecOps project integrating GitHub Actions, Terraform, and AWS to  
-**automate IaC security scanning and deployment pipeline security checks**.
+* AWS network and service architecture design
+* IAM roles, least-privilege access, and OIDC-based authentication
+* Infrastructure as Code using Terraform
+* CI/CD security pipelines using GitHub Actions
+* Linux and Windows Server security configuration
+* Log analysis using CloudTrail, GuardDuty, and CloudWatch
+* Automation of security assessment, remediation, and report generation
 
----
-
-### 🚁 [MAVLink Key Injection Analysis](https://github.com/young-ee30/MAVLink-Key-Injection-Attack)
-
-A security research project analyzing the MAVLink2 communication structure of ArduPilot-based drones,  
-**verifying the risk of unauthorized control through Signing Key Injection scenarios**.
-
----
-
-## 🛠️ Tech Stack
+<br/>
 
 <div align="center">
 
-**Languages & Scripting**  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,nodejs" />
+### Interested in learning more about my projects and technical experience?
 
-**Infrastructure & DevOps**  
-<img src="https://skillicons.dev/icons?i=linux,docker,terraform,aws,git,github,githubactions" />
+You can find detailed information about each project's problem definition,
+my responsibilities, implementation process, and results in my portfolio.
 
-**Security Tools**  
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/> 
-<img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=flat-square&logo=hexrays&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Checkov-5849BE?style=flat-square&logo=bridgecrew&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-
-**Database / Monitoring**  
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_WAF-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<a href="https://young-ee30.github.io">
+  <img src="https://img.shields.io/badge/View_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
