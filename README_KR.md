@@ -66,52 +66,6 @@ AWS와 Linux 환경을 기반으로 인프라를 구축하고,
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,linux,terraform,docker,git,github,githubactions" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_WAF-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-<br/><br/>
-
-### Security & DevSecOps
-
-<img src="https://img.shields.io/badge/Checkov-5849BE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gitleaks-222222?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudTrail-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GuardDuty-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security_Hub-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white"/>
-
-<br/><br/>
-
-### Languages & Automation
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,nodejs,mysql" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-
-</div>
-
----
-
 ## 🔗 Links
 
 <div align="center">
