@@ -1,5 +1,5 @@
 <div align="right">
-  🇰🇷 <a href="./README_KO.md">한국어</a> &nbsp;|&nbsp; 🇺🇸 <b>English</b>
+  🇰🇷 <a href="./README.ko.md">한국어</a> &nbsp;|&nbsp; 🇺🇸 <b>English</b>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 Hello.
 I'm **Lee Ga-young**, aspiring to become a **security engineer who designs secure, reliable, and operationally sustainable cloud infrastructure**.
 
-I am interested in building infrastructure based on AWS and Linux, while connecting
+I am interested in building infrastructure based on AWS and Linux while integrating
 **IAM access control, network security, IaC security validation, CI/CD security automation, and log monitoring** into a unified operational workflow.
 
 Rather than stopping at identifying vulnerabilities,
