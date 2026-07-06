@@ -74,10 +74,6 @@ AWS와 Linux 환경을 기반으로 인프라를 구축하고,
   <img src="https://img.shields.io/badge/Portfolio-young--ee30.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://yo-0ung.tistory.com/">
-  <img src="https://img.shields.io/badge/Blog-Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/>
-</a>
-&nbsp;
 <a href="mailto:eyoungblll30@gmail.com">
   <img src="https://img.shields.io/badge/Email-eyoungblll30-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
