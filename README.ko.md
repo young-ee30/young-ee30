@@ -71,21 +71,19 @@ AWS와 Linux 환경을 기반으로 인프라를 구축하고,
 <div align="center">
 
 <a href="https://young-ee30.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-young--ee30.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-young--ee30.github.io-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:eyoungblll30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-eyoungblll30-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-eyoungblll30-181717?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/young-ee30">
-  <img src="https://img.shields.io/badge/GitHub-young--ee30-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-young--ee30-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/gayounglee00">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Gayoung%20Lee-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-Gayoung%20Lee-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
