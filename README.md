@@ -71,19 +71,19 @@ my responsibilities, implementation process, and results in my portfolio.
 <div align="center">
 
 <a href="https://young-ee30.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-young--ee30.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://yo-0ung.tistory.com/">
-  <img src="https://img.shields.io/badge/Blog-Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-young--ee30.github.io-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:eyoungblll30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-eyoungblll30-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-eyoungblll30-181717?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/young-ee30">
-  <img src="https://img.shields.io/badge/GitHub-young--ee30-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-young--ee30-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gayounglee00">
+  <img src="https://img.shields.io/badge/LinkedIn-Gayoung%20Lee-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
