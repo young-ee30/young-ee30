@@ -85,5 +85,11 @@ AWS와 Linux 환경을 기반으로 인프라를 구축하고,
 <a href="www.linkedin.com/in/gayounglee00">
   <img src="https://img.shields.io/badge/LinkedIn-Gayoung Lee-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/gayounglee00">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Gayoung%20Lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
 </div>
